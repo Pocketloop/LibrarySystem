@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Fri Jul 15 18:31:45 SGT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-0182-016a-11f1-00000698e7e8 
+on database directory C:\Users\jerod\OneDrive\Desktop\AddressApp_g1-main\myDB with class loader sun.misc.Launcher$AppClassLoader@18b4aac2 
+Loaded from file:/C:/Users/jerod/AppData/Local/Coursier/cache/v1/https/repo1.maven.org/maven2/org/apache/derby/derby/10.13.1.1/derby-10.13.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_202-b08
+user.dir=C:\Users\jerod\OneDrive\Desktop\AddressApp_g1-main
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
